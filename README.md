@@ -18,15 +18,15 @@ Interactive filters let you slice by Region, Education, and Marital Status.
 
 1. **Average Income by Gender & Purchase**  
    Compare average household income for buyers vs. non-buyers across genders.  
-   ![Average Income by Gender & Purchase](./images/Average Income by Gender.png)
+   ![Average Income by Gender & Purchase](./images/Average%20Income%20by%20Gender.png)
 
 2. **Bike Purchase by Commute Distance & Age Bracket**  
    Stacked-column and line charts showing count of purchases (Yes/No) across distance buckets for different age groups.  
-   ![Bike Purchase by Commute Distance & Age Bracket](./images/Purchase by Commute Distance.png)
+   ![Bike Purchase by Commute Distance & Age Bracket](./images/Purchase%20by%20Commute%20Distance.png)
 
 3. **Global Dashboard View**  
    Use slicers for Region, Education, and Marital Status to filter all charts.  
-   ![Global Dashboard Overview](./images/Dashboard Overview.png)
+   ![Global Dashboard Overview](./images/Dashboard%20Overview.png)
 
 
 ---
